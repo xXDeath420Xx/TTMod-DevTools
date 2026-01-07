@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\DevTools\bin\Debug\net472\DevTools.dll
 C:\Users\crawf\TechtonicaMods\NewMods\DevTools\bin\Debug\net472\DevTools.pdb
 C:\Users\crawf\TechtonicaMods\NewMods\DevTools\obj\Debug\net472\DevTools.dll
 C:\Users\crawf\TechtonicaMods\NewMods\DevTools\obj\Debug\net472\DevTools.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\DevTools\obj\Debug\net472\DevTools.sourcelink.json
